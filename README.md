@@ -1,4 +1,4 @@
 # Tahir-Demo
 This is first repository for students
 <br>
-Author- Tahir Javaid khan
+Author- M. Tahir Javaid khan
